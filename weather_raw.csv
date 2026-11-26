@@ -1,0 +1,146 @@
+city,condition,country,href,local_time,temperature,wind,scraped_at_utc
+Accra,Passing clouds. Warm,Ghana,/weather/ghana/accra,Thu 1:49 am,82 °F,9 mph,2026-11-26T01:49:51+00:00
+Addis Ababa,Passing clouds. Cool,Ethiopia,/weather/ethiopia/addis-ababa,Thu 4:49 am,55 °F,7 mph,2026-11-26T01:49:51+00:00
+Adelaide,Pleasantly warm,Australia,/weather/australia/adelaide,Thu 12:19 pm,86 °F,3 mph,2026-11-26T01:49:51+00:00
+Algiers,Passing clouds. Cool,Algeria,/weather/algeria/algiers,Thu 2:49 am,62 °F,7 mph,2026-11-26T01:49:51+00:00
+Almaty,Fog. Chilly,Kazakhstan,/weather/kazakstan/almaty,Thu 6:49 am,39 °F,1 mph,2026-11-26T01:49:51+00:00
+Amman,Fog. Cool,Jordan,/weather/jordan/amman,Thu 4:49 am,50 °F,1 mph,2026-11-26T01:49:51+00:00
+Amsterdam,Passing clouds. Chilly,Netherlands,/weather/netherlands/amsterdam,Thu 2:49 am,30 °F,13 mph,2026-11-26T01:49:51+00:00
+Anadyr,Ice fog. Chilly,Russia,/weather/russia/anadyr,Thu 1:49 pm,29 °F,49 mph,2026-11-26T01:49:51+00:00
+Anchorage,Sunny. Cold,USA,/weather/usa/anchorage,Wed 4:49 pm,20 °F,0 mph,2026-11-26T01:49:51+00:00
+Ankara,Clear. Cold,Turkey,/weather/turkey/ankara,Thu 4:49 am,23 °F,2 mph,2026-11-26T01:49:51+00:00
+Antananarivo,Passing clouds. Mild,Madagascar,/weather/madagascar/antananarivo,Thu 4:49 am,63 °F,2 mph,2026-11-26T01:49:51+00:00
+Asuncion,Clear. Mild,Paraguay,/weather/paraguay/asuncion,Wed 10:49 pm,73 °F,3 mph,2026-11-26T01:49:51+00:00
+Athens,Cool,Greece,/weather/greece/athens,Thu 3:49 am,55 °F,"?
+Not available",2026-11-26T01:49:51+00:00
+Atlanta,Rain. Fog,USA,/weather/usa/atlanta,Wed 8:49 pm,45 °F,5 mph,2026-11-26T01:49:51+00:00
+Auckland,Mostly cloudy. Mild,New Zealand,/weather/new-zealand/auckland,Thu 2:49 pm,63 °F,16 mph,2026-11-26T01:49:51+00:00
+Baghdad,,Iraq,/weather/iraq/baghdad,Thu 4:49 am,,,2026-11-26T01:49:51+00:00
+Bangkok,Passing clouds. Warm,Thailand,/weather/thailand/bangkok,Thu 8:49 am,81 °F,7 mph,2026-11-26T01:49:51+00:00
+Barcelona,Passing clouds. Cool,Spain,/weather/spain/barcelona,Thu 2:49 am,50 °F,15 mph,2026-11-26T01:49:51+00:00
+Beijing,Passing clouds. Chilly,China,/weather/china/beijing,Thu 9:49 am,39 °F,3 mph,2026-11-26T01:49:51+00:00
+Beirut,Passing clouds. Cool,Lebanon,/weather/lebanon/beirut,Thu 3:49 am,59 °F,0 mph,2026-11-26T01:49:51+00:00
+Belgrade,Clear. Quite cool,Serbia,/weather/serbia/belgrade,Thu 2:49 am,45 °F,20 mph,2026-11-26T01:49:51+00:00
+Bengaluru,Partly cloudy. Mild,India,/weather/india/bengaluru,Thu 7:19 am,68 °F,7 mph,2026-11-26T01:49:51+00:00
+Berlin,Passing clouds. Chilly,Germany,/weather/germany/berlin,Thu 2:49 am,27 °F,5 mph,2026-11-26T01:49:51+00:00
+Bogota,Passing clouds. Cool,Colombia,/weather/colombia/bogota,Wed 8:49 pm,59 °F,3 mph,2026-11-26T01:49:51+00:00
+Boston,Overcast. Chilly,USA,/weather/usa/boston,Wed 8:49 pm,38 °F,7 mph,2026-11-26T01:49:51+00:00
+Brasilia,Passing clouds. Mild,Brazil,/weather/brazil/brasilia,Wed 10:49 pm,72 °F,5 mph,2026-11-26T01:49:51+00:00
+Brisbane,Mild,Australia,/weather/australia/brisbane,Thu 11:49 am,79 °F,2 mph,2026-11-26T01:49:51+00:00
+Brussels,Clear. Chilly,Belgium,/weather/belgium/brussels,Thu 2:49 am,30 °F,7 mph,2026-11-26T01:49:51+00:00
+Bucharest,Clear. Chilly,Romania,/weather/romania/bucharest,Thu 3:49 am,27 °F,0 mph,2026-11-26T01:49:51+00:00
+Budapest,Light freezing rain. Mostly cloudy,Hungary,/weather/hungary/budapest,Thu 2:49 am,32 °F,10 mph,2026-11-26T01:49:51+00:00
+Buenos Aires,Passing clouds. Mild,Argentina,/weather/argentina/buenos-aires,Wed 10:49 pm,73 °F,18 mph,2026-11-26T01:49:51+00:00
+Cairo,Clear. Cool,Egypt,/weather/egypt/cairo,Thu 3:49 am,57 °F,8 mph,2026-11-26T01:49:51+00:00
+Calgary,Passing clouds. Chilly,Canada,/weather/canada/calgary,Wed 7:49 pm,39 °F,2 mph,2026-11-26T01:49:51+00:00
+Canberra,Partly sunny. Mild,Australia,/weather/australia/canberra,Thu 12:49 pm,72 °F,7 mph,2026-11-26T01:49:51+00:00
+Cape Town,Clear. Mild,South Africa,/weather/south-africa/cape-town,Thu 3:49 am,63 °F,9 mph,2026-11-26T01:49:51+00:00
+Caracas,Passing clouds. Warm,Venezuela,/weather/venezuela/caracas,Wed 9:49 pm,82 °F,6 mph,2026-11-26T01:49:51+00:00
+Casablanca,Cool,Morocco,/weather/morocco/casablanca,Thu 1:49 am,61 °F,1 mph,2026-11-26T01:49:51+00:00
+Chicago,Overcast. Quite cool,USA,/weather/usa/chicago,Wed 7:49 pm,42 °F,20 mph,2026-11-26T01:49:51+00:00
+Copenhagen,Low clouds. Chilly,Denmark,/weather/denmark/copenhagen,Thu 2:49 am,32 °F,8 mph,2026-11-26T01:49:51+00:00
+Dallas,Clear. Cool,USA,/weather/usa/dallas,Wed 7:49 pm,47 °F,6 mph,2026-11-26T01:49:51+00:00
+Dar es Salaam,Passing clouds. Warm,Tanzania,/weather/tanzania/dar-es-salaam,Thu 4:49 am,79 °F,3 mph,2026-11-26T01:49:51+00:00
+Darwin,Partly sunny. Hot,Australia,/weather/australia/darwin,Thu 11:19 am,91 °F,7 mph,2026-11-26T01:49:51+00:00
+Denver,Passing clouds. Chilly,USA,/weather/usa/denver,Wed 6:49 pm,36 °F,10 mph,2026-11-26T01:49:51+00:00
+Detroit,Passing clouds. Chilly,USA,/weather/usa/detroit,Wed 8:49 pm,38 °F,14 mph,2026-11-26T01:49:51+00:00
+Dhaka,Clear. Mild,Bangladesh,/weather/bangladesh/dhaka,Thu 7:49 am,67 °F,4 mph,2026-11-26T01:49:51+00:00
+Doha,Clear. Mild,Qatar,/weather/qatar/doha,Thu 4:49 am,73 °F,2 mph,2026-11-26T01:49:51+00:00
+Dubai,Passing clouds. Mild,United Arab Emirates,/weather/united-arab-emirates/dubai,Thu 5:49 am,75 °F,5 mph,2026-11-26T01:49:51+00:00
+Dublin,Fog. Quite cool,Ireland,/weather/ireland/dublin,Thu 1:49 am,43 °F,2 mph,2026-11-26T01:49:51+00:00
+Edmonton,Passing clouds. Chilly,Canada,/weather/canada/edmonton,Wed 7:49 pm,30 °F,6 mph,2026-11-26T01:49:51+00:00
+Frankfurt,Passing clouds. Chilly,Germany,/weather/germany/frankfurt,Thu 2:49 am,30 °F,13 mph,2026-11-26T01:49:51+00:00
+Guatemala City,Passing clouds. Mild,Guatemala,/weather/guatemala/guatemala-city,Wed 7:49 pm,66 °F,23 mph,2026-11-26T01:49:51+00:00
+Halifax,Passing clouds. Chilly,Canada,/weather/canada/halifax,Wed 9:49 pm,27 °F,3 mph,2026-11-26T01:49:51+00:00
+Hanoi,Passing clouds. Cool,Vietnam,/weather/vietnam/hanoi,Thu 8:49 am,61 °F,6 mph,2026-11-26T01:49:51+00:00
+Harare,Overcast. Mild,Zimbabwe,/weather/zimbabwe/harare,Thu 3:49 am,68 °F,16 mph,2026-11-26T01:49:51+00:00
+Havana,Light rain. Passing clouds,Cuba,/weather/cuba/havana,Wed 9:49 pm,75 °F,13 mph,2026-11-26T01:49:51+00:00
+Helsinki,Passing clouds. Chilly,Finland,/weather/finland/helsinki,Thu 3:49 am,30 °F,13 mph,2026-11-26T01:49:51+00:00
+Hong Kong,Scattered clouds. Mild,Hong Kong,/weather/hong-kong/hong-kong,Thu 9:49 am,63 °F,12 mph,2026-11-26T01:49:51+00:00
+Honolulu,Scattered clouds. Warm,USA,/weather/usa/honolulu,Wed 3:49 pm,81 °F,17 mph,2026-11-26T01:49:51+00:00
+Houston,Clear. Cool,USA,/weather/usa/houston,Wed 7:49 pm,51 °F,8 mph,2026-11-26T01:49:51+00:00
+Indianapolis,Passing clouds. Quite cool,USA,/weather/usa/indianapolis,Wed 8:49 pm,44 °F,34 mph,2026-11-26T01:49:51+00:00
+Islamabad,Clear. Refreshingly cool,Pakistan,/weather/pakistan/islamabad,Thu 6:49 am,59 °F,0 mph,2026-11-26T01:49:51+00:00
+Istanbul,Clear. Cool,Turkey,/weather/turkey/istanbul,Thu 4:49 am,48 °F,8 mph,2026-11-26T01:49:51+00:00
+Jakarta,Scattered clouds. Warm,Indonesia,/weather/indonesia/jakarta,Thu 8:49 am,83 °F,4 mph,2026-11-26T01:49:51+00:00
+Jerusalem,Quite cool,Israel,/weather/israel/jerusalem,Thu 3:49 am,52 °F,"?
+Not available",2026-11-26T01:49:51+00:00
+Johannesburg,Passing clouds. Cool,South Africa,/weather/south-africa/johannesburg,Thu 3:49 am,60 °F,25 mph,2026-11-26T01:49:51+00:00
+Kabul,Haze. Cool,Afghanistan,/weather/afghanistan/kabul,Thu 6:19 am,50 °F,0 mph,2026-11-26T01:49:51+00:00
+Karachi,Clear. Mild,Pakistan,/weather/pakistan/karachi,Thu 6:49 am,63 °F,7 mph,2026-11-26T01:49:51+00:00
+Kathmandu,Fog. Cool,Nepal,/weather/nepal/kathmandu,Thu 7:34 am,46 °F,2 mph,2026-11-26T01:49:51+00:00
+Khartoum,Clear. Mild,Sudan,/weather/sudan/khartoum,Thu 3:49 am,68 °F,6 mph,2026-11-26T01:49:51+00:00
+Kingston,Warm,Jamaica,/weather/jamaica/kingston,Wed 8:49 pm,84 °F,25 mph,2026-11-26T01:49:51+00:00
+Kinshasa,Clear. Warm,Congo Dem. Rep.,/weather/congo-demrep/kinshasa,Thu 2:49 am,79 °F,2 mph,2026-11-26T01:49:51+00:00
+Kiritimati,Drizzle. Broken clouds,Kiribati,/weather/kiribati/kiritimati,Thu 3:49 pm,81 °F,9 mph,2026-11-26T01:49:51+00:00
+Kolkata,Fog. Mild,India,/weather/india/kolkata,Thu 7:19 am,64 °F,5 mph,2026-11-26T01:49:51+00:00
+Kuala Lumpur,Passing clouds. Warm,Malaysia,/weather/malaysia/kuala-lumpur,Thu 9:49 am,81 °F,2 mph,2026-11-26T01:49:51+00:00
+Kuwait City,Fog. Cool,Kuwait,/weather/kuwait/kuwait-city,Thu 4:49 am,60 °F,11 mph,2026-11-26T01:49:51+00:00
+Kyiv,Clear. Chilly,Ukraine,/weather/ukraine/kyiv,Thu 3:49 am,29 °F,4 mph,2026-11-26T01:49:51+00:00
+La Paz,Passing clouds. Cool,Bolivia,/weather/bolivia/la-paz,Wed 9:49 pm,52 °F,22 mph,2026-11-26T01:49:51+00:00
+Lagos,Passing clouds. Warm,Nigeria,/weather/nigeria/lagos,Thu 2:49 am,81 °F,2 mph,2026-11-26T01:49:51+00:00
+Lahore,Fog. Cool,Pakistan,/weather/pakistan/lahore,Thu 6:49 am,52 °F,0 mph,2026-11-26T01:49:51+00:00
+Las Vegas,Partly sunny. Refreshingly cool,USA,/weather/usa/las-vegas,Wed 5:49 pm,62 °F,0 mph,2026-11-26T01:49:51+00:00
+Lima,Overcast. Warm,Peru,/weather/peru/lima,Wed 8:49 pm,78 °F,25 mph,2026-11-26T01:49:51+00:00
+Lisbon,Passing clouds. Cool,Portugal,/weather/portugal/lisbon,Thu 1:49 am,50 °F,3 mph,2026-11-26T01:49:51+00:00
+London,Fog. Quite cool,United Kingdom,/weather/uk/london,Thu 1:49 am,43 °F,12 mph,2026-11-26T01:49:51+00:00
+Los Angeles,Clear. Mild,USA,/weather/usa/los-angeles,Wed 5:49 pm,72 °F,5 mph,2026-11-26T01:49:51+00:00
+Madrid,Clear. Quite cool,Spain,/weather/spain/madrid,Thu 2:49 am,41 °F,6 mph,2026-11-26T01:49:51+00:00
+Managua,Passing clouds. Warm,Nicaragua,/weather/nicaragua/managua,Wed 7:49 pm,88 °F,5 mph,2026-11-26T01:49:51+00:00
+Manila,Partly sunny. Warm,Philippines,/weather/philippines/manila,Thu 9:49 am,80 °F,2 mph,2026-11-26T01:49:51+00:00
+Melbourne,Sunny. Warm,Australia,/weather/australia/melbourne,Thu 12:49 pm,79 °F,6 mph,2026-11-26T01:49:51+00:00
+Mexico City,Light rain. Mostly cloudy,Mexico,/weather/mexico/mexico-city,Wed 7:49 pm,63 °F,8 mph,2026-11-26T01:49:51+00:00
+Miami,Light rain. Mostly cloudy,USA,/weather/usa/miami,Wed 8:49 pm,73 °F,7 mph,2026-11-26T01:49:51+00:00
+Minneapolis,Passing clouds. Chilly,USA,/weather/usa/minneapolis,Wed 7:49 pm,34 °F,0 mph,2026-11-26T01:49:51+00:00
+Minsk,Passing clouds. Chilly,Belarus,/weather/belarus/minsk,Thu 4:49 am,30 °F,8 mph,2026-11-26T01:49:51+00:00
+Montevideo,Clear. Mild,Uruguay,/weather/uruguay/montevideo,Wed 10:49 pm,66 °F,18 mph,2026-11-26T01:49:51+00:00
+Montréal,Passing clouds. Chilly,Canada,/weather/canada/montreal,Wed 8:49 pm,30 °F,5 mph,2026-11-26T01:49:51+00:00
+Moscow,Overcast. Chilly,Russia,/weather/russia/moscow,Thu 4:49 am,26 °F,7 mph,2026-11-26T01:49:51+00:00
+Mumbai,Clear. Warm,India,/weather/india/mumbai,Thu 7:19 am,79 °F,3 mph,2026-11-26T01:49:51+00:00
+Nairobi,Passing clouds. Mild,Kenya,/weather/kenya/nairobi,Thu 4:49 am,64 °F,8 mph,2026-11-26T01:49:51+00:00
+Nassau,Scattered showers. Partly cloudy,Bahamas,/weather/bahamas/nassau,Wed 8:49 pm,81 °F,14 mph,2026-11-26T01:49:51+00:00
+New Delhi,Fog. Cool,India,/weather/india/new-delhi,Thu 7:19 am,50 °F,0 mph,2026-11-26T01:49:51+00:00
+New Orleans,Mostly cloudy. Cool,USA,/weather/usa/new-orleans,Wed 7:49 pm,51 °F,26 mph,2026-11-26T01:49:51+00:00
+New York,Clear. Quite cool,USA,/weather/usa/new-york,Wed 8:49 pm,43 °F,9 mph,2026-11-26T01:49:51+00:00
+Oslo,Clear. Cold,Norway,/weather/norway/oslo,Thu 2:49 am,10 °F,2 mph,2026-11-26T01:49:51+00:00
+Ottawa,Passing clouds. Cold,Canada,/weather/canada/ottawa,Wed 8:49 pm,21 °F,3 mph,2026-11-26T01:49:51+00:00
+Paris,Fog. Quite cool,France,/weather/france/paris,Thu 2:49 am,41 °F,9 mph,2026-11-26T01:49:51+00:00
+Perth,Passing clouds. Mild,Australia,/weather/australia/perth,Thu 9:49 am,72 °F,8 mph,2026-11-26T01:49:51+00:00
+Philadelphia,Passing clouds. Quite cool,USA,/weather/usa/philadelphia,Wed 8:49 pm,44 °F,16 mph,2026-11-26T01:49:51+00:00
+Phoenix,Partly cloudy. Mild,USA,/weather/usa/phoenix,Wed 6:49 pm,73 °F,7 mph,2026-11-26T01:49:51+00:00
+Prague,Overcast. Chilly,Czechia,/weather/czech-republic/prague,Thu 2:49 am,30 °F,12 mph,2026-11-26T01:49:51+00:00
+Reykjavik,Partly cloudy. Chilly,Iceland,/weather/iceland/reykjavik,Thu 1:49 am,39 °F,7 mph,2026-11-26T01:49:51+00:00
+Rio de Janeiro,Light rain. Passing clouds,Brazil,/weather/brazil/rio-de-janeiro,Wed 10:49 pm,81 °F,5 mph,2026-11-26T01:49:51+00:00
+Riyadh,Clear. Refreshingly cool,Saudi Arabia,/weather/saudi-arabia/riyadh,Thu 4:49 am,59 °F,0 mph,2026-11-26T01:49:51+00:00
+Rome,Passing clouds. Cool,Italy,/weather/italy/rome,Thu 2:49 am,61 °F,9 mph,2026-11-26T01:49:51+00:00
+Salt Lake City,Partly cloudy. Quite cool,USA,/weather/usa/salt-lake-city,Wed 6:49 pm,41 °F,6 mph,2026-11-26T01:49:51+00:00
+San Francisco,Passing clouds. Cool,USA,/weather/usa/san-francisco,Wed 5:49 pm,60 °F,6 mph,2026-11-26T01:49:51+00:00
+San Juan,Passing clouds. Warm,Puerto Rico,/weather/puerto-rico/san-juan,Wed 9:49 pm,81 °F,8 mph,2026-11-26T01:49:51+00:00
+San Salvador,Passing clouds. Warm,El Salvador,/weather/el-salvador/san-salvador,Wed 7:49 pm,77 °F,7 mph,2026-11-26T01:49:51+00:00
+Santiago,Clear. Mild,Chile,/weather/chile/santiago,Wed 10:49 pm,75 °F,6 mph,2026-11-26T01:49:51+00:00
+Santo Domingo,Passing clouds. Warm,Dominican Republic,/weather/dominican-republic/santo-domingo,Wed 9:49 pm,84 °F,4 mph,2026-11-26T01:49:51+00:00
+São Paulo,Light rain. Passing clouds,Brazil,/weather/brazil/sao-paulo,Wed 10:49 pm,70 °F,13 mph,2026-11-26T01:49:51+00:00
+Seattle,Light rain. Mostly cloudy,USA,/weather/usa/seattle,Wed 5:49 pm,56 °F,8 mph,2026-11-26T01:49:51+00:00
+Seoul,Partly sunny. Cool,South Korea,/weather/south-korea/seoul,Thu 10:49 am,54 °F,8 mph,2026-11-26T01:49:51+00:00
+Shanghai,Passing clouds. Refreshingly cool,China,/weather/china/shanghai,Thu 9:49 am,57 °F,8 mph,2026-11-26T01:49:51+00:00
+Singapore,Partly sunny. Warm,Singapore,/weather/singapore/singapore,Thu 9:49 am,81 °F,3 mph,2026-11-26T01:49:51+00:00
+Sofia,Passing clouds. Chilly,Bulgaria,/weather/bulgaria/sofia,Thu 3:49 am,35 °F,2 mph,2026-11-26T01:49:51+00:00
+St. John's,Passing clouds. Chilly,Canada,/weather/canada/st-johns,Wed 10:19 pm,28 °F,12 mph,2026-11-26T01:49:51+00:00
+Stockholm,Passing clouds. Chilly,Sweden,/weather/sweden/stockholm,Thu 2:49 am,27 °F,3 mph,2026-11-26T01:49:51+00:00
+Suva,Partly sunny. Warm,Fiji,/weather/fiji/suva,Thu 1:49 pm,80 °F,34 mph,2026-11-26T01:49:51+00:00
+Sydney,Broken clouds. Mild,Australia,/weather/australia/sydney,Thu 12:49 pm,75 °F,10 mph,2026-11-26T01:49:51+00:00
+Taipei,Partly sunny. Mild,Taiwan,/weather/taiwan/taipei,Thu 9:49 am,70 °F,1 mph,2026-11-26T01:49:51+00:00
+Tallinn,Overcast. Chilly,Estonia,/weather/estonia/tallinn,Thu 3:49 am,34 °F,9 mph,2026-11-26T01:49:51+00:00
+Tashkent,Clear. Refreshingly cool,Uzbekistan,/weather/uzbekistan/tashkent,Thu 6:49 am,60 °F,7 mph,2026-11-26T01:49:51+00:00
+Tegucigalpa,Passing clouds. Mild,Honduras,/weather/honduras/tegucigalpa,Wed 7:49 pm,68 °F,7 mph,2026-11-26T01:49:51+00:00
+Tehran,,Iran,/weather/iran/tehran,Thu 5:19 am,,,2026-11-26T01:49:51+00:00
+Tokyo,Scattered clouds. Cool,Japan,/weather/japan/tokyo,Thu 10:49 am,48 °F,4 mph,2026-11-26T01:49:51+00:00
+Toronto,Passing clouds. Chilly,Canada,/weather/canada/toronto,Wed 8:49 pm,39 °F,10 mph,2026-11-26T01:49:51+00:00
+Vancouver,Light rain. Fog,Canada,/weather/canada/vancouver,Wed 6:49 pm,52 °F,12 mph,2026-11-26T01:49:51+00:00
+Vienna,Light snow. Passing clouds,Austria,/weather/austria/vienna,Thu 2:49 am,32 °F,9 mph,2026-11-26T01:49:51+00:00
+Warsaw,Passing clouds. Chilly,Poland,/weather/poland/warsaw,Thu 2:49 am,32 °F,5 mph,2026-11-26T01:49:51+00:00
+Washington DC,Overcast. Cool,USA,/weather/usa/washington-dc,Wed 8:49 pm,46 °F,18 mph,2026-11-26T01:49:51+00:00
+Winnipeg,Chilly,Canada,/weather/canada/winnipeg,Wed 8:49 pm,34 °F,8 mph,2026-11-26T01:49:51+00:00
+Yangon,Passing clouds. Warm,Myanmar,/weather/myanmar/yangon,Thu 8:19 am,79 °F,3 mph,2026-11-26T01:49:51+00:00
+Zagreb,Overcast. Chilly,Croatia,/weather/croatia/zagreb,Thu 2:49 am,36 °F,12 mph,2026-11-26T01:49:51+00:00
+Zürich,Overcast. Chilly,Switzerland,/weather/switzerland/zurich,Thu 2:49 am,34 °F,7 mph,2026-11-26T01:49:51+00:00

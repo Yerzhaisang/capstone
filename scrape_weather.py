@@ -4,9 +4,9 @@ import argparse
 import csv
 from datetime import datetime, timezone
 from pathlib import Path
-import re
 from urllib.parse import urljoin
 
+import pandas as pd
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.chrome.options import Options
@@ -33,30 +33,58 @@ return Array.from(cityCells, cityCell => {
         wind: value('wind'),
         local_time: value('time'),
         href: cityCell.querySelector('a')?.getAttribute('href') ?? '',
-        unavailable: Boolean(row.querySelector('.tad-weather-table__row-data-unavailable')),
     };
 });
 """
 
 
-def clean_text(value):
-    return " ".join(value.split())
+def metric_values(values, pattern, convert_from, convert):
+    """Return standardized measurements and a mask of malformed source values."""
+    values = values.str.replace("−", "-", regex=False)
+    missing = values.isna() | values.str.fullmatch(r"[-–—]|n/a|\?.*", case=False)
+    parts = values.mask(missing).str.extract(pattern)
+    numbers = pd.to_numeric(parts[0].str.replace(",", ".", regex=False), errors="coerce")
+    needs_conversion = parts[1].str.lower().eq(convert_from).fillna(False)
+    numbers = numbers.mask(needs_conversion, convert(numbers))
+    return numbers.round(1), ~missing & numbers.isna()
 
 
-def metric_value(value, unit):
-    value = clean_text(value).replace("−", "-")
-    if not value or value in {"-", "–", "—", "N/A"} or value.startswith("?"):
-        return None
-    pattern = r"([+-]?\d+(?:[.,]\d+)?)\s*" + unit
-    match = re.fullmatch(pattern, value, re.IGNORECASE)
-    if match is None:
-        raise ValueError(f"Unexpected weather reading {value!r}")
-    number = float(match[1].replace(",", "."))
-    if unit == "°[CF]" and value.upper().endswith("F"):
-        number = (number - 32) * 5 / 9
-    if unit == "(?:km/h|mph)" and value.lower().endswith("mph"):
-        number *= 1.609344
-    return round(number, 1)
+def clean_weather(raw_path):
+    weather = pd.read_csv(raw_path, dtype="string", keep_default_na=False)
+    weather = weather.apply(lambda column: column.str.split().str.join(" ").replace("", pd.NA))
+
+    valid_href = weather["href"].str.fullmatch(r"/weather/[^/?#]+/[^/?#]+", na=False)
+    missing_identity = weather[["city", "country", "href"]].isna().any(axis=1)
+    invalid_locations = missing_identity | ~valid_href
+    duplicates = weather.loc[~invalid_locations, "href"].duplicated().sum()
+    print(
+        f"Before cleaning: {len(weather)} rows, {duplicates} duplicate city rows, "
+        f"{invalid_locations.sum()} rows with missing or invalid location data."
+    )
+    weather = weather.loc[~invalid_locations].drop_duplicates(subset="href").copy()
+    weather["city_weather_url"] = weather["href"].map(lambda href: urljoin(SOURCE_URL, href))
+
+    number = r"([+-]?\d+(?:[.,]\d+)?)"
+    weather["temperature_c"], bad_temp = metric_values(
+        weather["temperature"], rf"(?i)^{number}\s*°([CF])$", "f", lambda value: (value - 32) * 5 / 9
+    )
+    weather["wind_kmh"], bad_wind = metric_values(
+        weather["wind"], rf"(?i)^{number}\s*(km/h|mph)$", "mph", lambda value: value * 1.609344
+    )
+    negative_wind = weather["wind_kmh"].lt(0).fillna(False)
+    weather["wind_kmh"] = weather["wind_kmh"].mask(negative_wind)
+
+    print(
+        f"After cleaning: {len(weather)} rows, "
+        f"{weather['city_weather_url'].duplicated().sum()} duplicate city rows. "
+        f"Blank temperatures: {weather['temperature_c'].isna().sum()} "
+        f"({bad_temp.sum()} malformed). "
+        f"Blank wind speeds: {weather['wind_kmh'].isna().sum()} "
+        f"({(bad_wind | negative_wind).sum()} malformed)."
+    )
+    if weather.empty:
+        raise ValueError("The raw CSV contains no valid city rows.")
+    return weather[list(COLUMNS)]
 
 
 def scrape_weather():
@@ -74,26 +102,9 @@ def scrape_weather():
         )
         scraped_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
-    records = {}
     for row in raw_rows:
-        city = clean_text(row["city"])
-        country = clean_text(row["country"])
-        if not (city and country and row["href"]):
-            raise ValueError(f"Incomplete location data for {city or 'a table row'}.")
-
-        city_url = urljoin(SOURCE_URL, row["href"])
-        unavailable = row["unavailable"]
-        records[city_url] = {
-            "city": city,
-            "country": country,
-            "condition": "" if unavailable else clean_text(row["condition"]),
-            "temperature_c": None if unavailable else metric_value(row["temperature"], "°[CF]"),
-            "wind_kmh": None if unavailable else metric_value(row["wind"], "(?:km/h|mph)"),
-            "local_time": clean_text(row["local_time"]),
-            "city_weather_url": city_url,
-            "scraped_at_utc": scraped_at,
-        }
-    return list(records.values())
+        row["scraped_at_utc"] = scraped_at
+    return raw_rows
 
 
 def main():
@@ -101,15 +112,19 @@ def main():
     parser.add_argument("-o", "--output", type=Path, default=Path("weather.csv"))
     args = parser.parse_args()
 
+    raw_path = args.output.with_name(f"{args.output.stem}_raw.csv")
     try:
         records = scrape_weather()
-        with args.output.open("w", encoding="utf-8", newline="") as output:
-            writer = csv.DictWriter(output, fieldnames=COLUMNS)
+        with raw_path.open("w", encoding="utf-8", newline="") as output:
+            writer = csv.DictWriter(output, fieldnames=list(records[0]))
             writer.writeheader()
             writer.writerows(records)
+        cleaned = clean_weather(raw_path)
+        cleaned.to_csv(args.output, index=False)
     except (OSError, ValueError, WebDriverException) as error:
         parser.exit(1, f"Weather scrape failed: {error}\n")
-    print(f"Saved {len(records)} cities to {args.output}")
+    print(f"Saved raw data to {raw_path} and {len(cleaned)} cleaned cities to {args.output}")
+
 
 
 if __name__ == "__main__":

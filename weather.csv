@@ -1,144 +1,144 @@
 city,country,condition,temperature_c,wind_kmh,local_time,city_weather_url,scraped_at_utc
-Accra,Ghana,Passing clouds. Warm,27.8,16.1,Thu 1:27 am,https://www.timeanddate.com/weather/ghana/accra,2026-11-26T01:27:04+00:00
-Addis Ababa,Ethiopia,Passing clouds. Cool,12.8,11.3,Thu 4:27 am,https://www.timeanddate.com/weather/ethiopia/addis-ababa,2026-11-26T01:27:04+00:00
-Adelaide,Australia,Pleasantly warm,29.4,1.6,Thu 11:57 am,https://www.timeanddate.com/weather/australia/adelaide,2026-11-26T01:27:04+00:00
-Algiers,Algeria,Passing clouds. Cool,16.7,11.3,Thu 2:27 am,https://www.timeanddate.com/weather/algeria/algiers,2026-11-26T01:27:04+00:00
-Almaty,Kazakhstan,Fog. Chilly,3.9,1.6,Thu 6:27 am,https://www.timeanddate.com/weather/kazakstan/almaty,2026-11-26T01:27:04+00:00
-Amman,Jordan,Fog. Cool,10.0,1.6,Thu 4:27 am,https://www.timeanddate.com/weather/jordan/amman,2026-11-26T01:27:04+00:00
-Amsterdam,Netherlands,Passing clouds. Chilly,-1.1,20.9,Thu 2:27 am,https://www.timeanddate.com/weather/netherlands/amsterdam,2026-11-26T01:27:04+00:00
-Anadyr,Russia,Ice fog. Chilly,-1.7,78.9,Thu 1:27 pm,https://www.timeanddate.com/weather/russia/anadyr,2026-11-26T01:27:04+00:00
-Anchorage,USA,Sunny. Cold,-6.7,0.0,Wed 4:27 pm,https://www.timeanddate.com/weather/usa/anchorage,2026-11-26T01:27:04+00:00
-Ankara,Turkey,Clear. Cold,-3.9,3.2,Thu 4:27 am,https://www.timeanddate.com/weather/turkey/ankara,2026-11-26T01:27:04+00:00
-Antananarivo,Madagascar,Passing clouds. Mild,17.2,3.2,Thu 4:27 am,https://www.timeanddate.com/weather/madagascar/antananarivo,2026-11-26T01:27:04+00:00
-Asuncion,Paraguay,Clear. Mild,22.8,4.8,Wed 10:27 pm,https://www.timeanddate.com/weather/paraguay/asuncion,2026-11-26T01:27:04+00:00
-Athens,Greece,Cool,12.8,,Thu 3:27 am,https://www.timeanddate.com/weather/greece/athens,2026-11-26T01:27:04+00:00
-Atlanta,USA,Rain. Fog,7.2,8.0,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/atlanta,2026-11-26T01:27:04+00:00
-Auckland,New Zealand,Mostly cloudy. Mild,17.2,25.7,Thu 2:27 pm,https://www.timeanddate.com/weather/new-zealand/auckland,2026-11-26T01:27:04+00:00
-Baghdad,Iraq,,,,Thu 4:27 am,https://www.timeanddate.com/weather/iraq/baghdad,2026-11-26T01:27:04+00:00
-Bangkok,Thailand,Passing clouds. Warm,27.2,11.3,Thu 8:27 am,https://www.timeanddate.com/weather/thailand/bangkok,2026-11-26T01:27:04+00:00
-Barcelona,Spain,Passing clouds. Cool,10.0,24.1,Thu 2:27 am,https://www.timeanddate.com/weather/spain/barcelona,2026-11-26T01:27:04+00:00
-Beijing,China,Passing clouds. Chilly,3.9,4.8,Thu 9:27 am,https://www.timeanddate.com/weather/china/beijing,2026-11-26T01:27:04+00:00
-Beirut,Lebanon,Passing clouds. Cool,15.0,0.0,Thu 3:27 am,https://www.timeanddate.com/weather/lebanon/beirut,2026-11-26T01:27:04+00:00
-Belgrade,Serbia,Clear. Quite cool,7.2,32.2,Thu 2:27 am,https://www.timeanddate.com/weather/serbia/belgrade,2026-11-26T01:27:04+00:00
-Bengaluru,India,Partly cloudy. Mild,20.0,11.3,Thu 6:57 am,https://www.timeanddate.com/weather/india/bengaluru,2026-11-26T01:27:04+00:00
-Berlin,Germany,Passing clouds. Cold,-3.9,8.0,Thu 2:27 am,https://www.timeanddate.com/weather/germany/berlin,2026-11-26T01:27:04+00:00
-Bogota,Colombia,Passing clouds. Cool,15.0,4.8,Wed 8:27 pm,https://www.timeanddate.com/weather/colombia/bogota,2026-11-26T01:27:04+00:00
-Boston,USA,Overcast. Chilly,3.3,11.3,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/boston,2026-11-26T01:27:04+00:00
-Brasilia,Brazil,Passing clouds. Mild,22.2,8.0,Wed 10:27 pm,https://www.timeanddate.com/weather/brazil/brasilia,2026-11-26T01:27:04+00:00
-Brisbane,Australia,Mild,24.4,1.6,Thu 11:27 am,https://www.timeanddate.com/weather/australia/brisbane,2026-11-26T01:27:04+00:00
-Brussels,Belgium,Clear. Chilly,-1.1,12.9,Thu 2:27 am,https://www.timeanddate.com/weather/belgium/brussels,2026-11-26T01:27:04+00:00
-Bucharest,Romania,Clear. Chilly,-2.8,0.0,Thu 3:27 am,https://www.timeanddate.com/weather/romania/bucharest,2026-11-26T01:27:04+00:00
-Budapest,Hungary,Light freezing rain. Mostly cloudy,0.0,16.1,Thu 2:27 am,https://www.timeanddate.com/weather/hungary/budapest,2026-11-26T01:27:04+00:00
-Buenos Aires,Argentina,Passing clouds. Mild,22.8,29.0,Wed 10:27 pm,https://www.timeanddate.com/weather/argentina/buenos-aires,2026-11-26T01:27:04+00:00
-Cairo,Egypt,Clear. Cool,13.9,12.9,Thu 3:27 am,https://www.timeanddate.com/weather/egypt/cairo,2026-11-26T01:27:04+00:00
-Calgary,Canada,Passing clouds. Chilly,3.9,3.2,Wed 7:27 pm,https://www.timeanddate.com/weather/canada/calgary,2026-11-26T01:27:04+00:00
-Canberra,Australia,Partly sunny. Mild,22.2,11.3,Thu 12:27 pm,https://www.timeanddate.com/weather/australia/canberra,2026-11-26T01:27:04+00:00
-Cape Town,South Africa,Clear. Cool,16.1,8.0,Thu 3:27 am,https://www.timeanddate.com/weather/south-africa/cape-town,2026-11-26T01:27:04+00:00
-Caracas,Venezuela,Passing clouds. Warm,27.8,9.7,Wed 9:27 pm,https://www.timeanddate.com/weather/venezuela/caracas,2026-11-26T01:27:04+00:00
-Casablanca,Morocco,Cool,16.1,1.6,Thu 1:27 am,https://www.timeanddate.com/weather/morocco/casablanca,2026-11-26T01:27:04+00:00
-Chicago,USA,Overcast. Quite cool,5.6,32.2,Wed 7:27 pm,https://www.timeanddate.com/weather/usa/chicago,2026-11-26T01:27:04+00:00
-Copenhagen,Denmark,Overcast. Chilly,0.0,16.1,Thu 2:27 am,https://www.timeanddate.com/weather/denmark/copenhagen,2026-11-26T01:27:04+00:00
-Dallas,USA,Clear. Cool,8.3,9.7,Wed 7:27 pm,https://www.timeanddate.com/weather/usa/dallas,2026-11-26T01:27:04+00:00
-Dar es Salaam,Tanzania,Passing clouds. Warm,26.1,4.8,Thu 4:27 am,https://www.timeanddate.com/weather/tanzania/dar-es-salaam,2026-11-26T01:27:04+00:00
-Darwin,Australia,Partly sunny. Hot,32.8,11.3,Thu 10:57 am,https://www.timeanddate.com/weather/australia/darwin,2026-11-26T01:27:04+00:00
-Denver,USA,Passing clouds. Chilly,2.2,16.1,Wed 6:27 pm,https://www.timeanddate.com/weather/usa/denver,2026-11-26T01:27:04+00:00
-Detroit,USA,Passing clouds. Chilly,3.3,22.5,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/detroit,2026-11-26T01:27:04+00:00
-Dhaka,Bangladesh,Clear. Mild,19.4,6.4,Thu 7:27 am,https://www.timeanddate.com/weather/bangladesh/dhaka,2026-11-26T01:27:04+00:00
-Doha,Qatar,Clear. Mild,23.9,3.2,Thu 4:27 am,https://www.timeanddate.com/weather/qatar/doha,2026-11-26T01:27:04+00:00
-Dubai,United Arab Emirates,Passing clouds. Mild,23.9,8.0,Thu 5:27 am,https://www.timeanddate.com/weather/united-arab-emirates/dubai,2026-11-26T01:27:04+00:00
-Dublin,Ireland,Fog. Quite cool,6.1,4.8,Thu 1:27 am,https://www.timeanddate.com/weather/ireland/dublin,2026-11-26T01:27:04+00:00
-Edmonton,Canada,Passing clouds. Chilly,-1.1,9.7,Wed 7:27 pm,https://www.timeanddate.com/weather/canada/edmonton,2026-11-26T01:27:04+00:00
-Frankfurt,Germany,Clear. Chilly,-1.1,20.9,Thu 2:27 am,https://www.timeanddate.com/weather/germany/frankfurt,2026-11-26T01:27:04+00:00
-Guatemala City,Guatemala,Passing clouds. Mild,18.9,37.0,Wed 7:27 pm,https://www.timeanddate.com/weather/guatemala/guatemala-city,2026-11-26T01:27:04+00:00
-Halifax,Canada,Passing clouds. Chilly,-2.8,4.8,Wed 9:27 pm,https://www.timeanddate.com/weather/canada/halifax,2026-11-26T01:27:04+00:00
-Hanoi,Vietnam,Passing clouds. Cool,16.1,9.7,Thu 8:27 am,https://www.timeanddate.com/weather/vietnam/hanoi,2026-11-26T01:27:04+00:00
-Harare,Zimbabwe,Overcast. Mild,20.0,25.7,Thu 3:27 am,https://www.timeanddate.com/weather/zimbabwe/harare,2026-11-26T01:27:04+00:00
-Havana,Cuba,Light rain. Passing clouds,23.9,20.9,Wed 9:27 pm,https://www.timeanddate.com/weather/cuba/havana,2026-11-26T01:27:04+00:00
-Helsinki,Finland,Passing clouds. Chilly,-1.1,16.1,Thu 3:27 am,https://www.timeanddate.com/weather/finland/helsinki,2026-11-26T01:27:04+00:00
-Hong Kong,Hong Kong,Scattered clouds. Mild,17.2,19.3,Thu 9:27 am,https://www.timeanddate.com/weather/hong-kong/hong-kong,2026-11-26T01:27:04+00:00
-Honolulu,USA,Scattered clouds. Warm,27.2,27.4,Wed 3:27 pm,https://www.timeanddate.com/weather/usa/honolulu,2026-11-26T01:27:04+00:00
-Houston,USA,Clear. Cool,10.6,12.9,Wed 7:27 pm,https://www.timeanddate.com/weather/usa/houston,2026-11-26T01:27:04+00:00
-Indianapolis,USA,Passing clouds. Quite cool,6.7,54.7,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/indianapolis,2026-11-26T01:27:04+00:00
-Islamabad,Pakistan,Clear. Refreshingly cool,15.0,0.0,Thu 6:27 am,https://www.timeanddate.com/weather/pakistan/islamabad,2026-11-26T01:27:04+00:00
-Istanbul,Turkey,Clear. Cool,8.9,14.5,Thu 4:27 am,https://www.timeanddate.com/weather/turkey/istanbul,2026-11-26T01:27:04+00:00
-Jakarta,Indonesia,Partly sunny. Warm,27.2,6.4,Thu 8:27 am,https://www.timeanddate.com/weather/indonesia/jakarta,2026-11-26T01:27:04+00:00
-Jerusalem,Israel,Quite cool,11.1,,Thu 3:27 am,https://www.timeanddate.com/weather/israel/jerusalem,2026-11-26T01:27:04+00:00
-Johannesburg,South Africa,Passing clouds. Cool,15.6,40.2,Thu 3:27 am,https://www.timeanddate.com/weather/south-africa/johannesburg,2026-11-26T01:27:04+00:00
-Kabul,Afghanistan,Haze. Cool,10.0,0.0,Thu 5:57 am,https://www.timeanddate.com/weather/afghanistan/kabul,2026-11-26T01:27:04+00:00
-Karachi,Pakistan,Clear. Mild,17.2,8.0,Thu 6:27 am,https://www.timeanddate.com/weather/pakistan/karachi,2026-11-26T01:27:04+00:00
-Kathmandu,Nepal,Fog. Cool,7.8,3.2,Thu 7:12 am,https://www.timeanddate.com/weather/nepal/kathmandu,2026-11-26T01:27:04+00:00
-Khartoum,Sudan,Clear. Mild,21.1,9.7,Thu 3:27 am,https://www.timeanddate.com/weather/sudan/khartoum,2026-11-26T01:27:04+00:00
-Kingston,Jamaica,Warm,28.9,35.4,Wed 8:27 pm,https://www.timeanddate.com/weather/jamaica/kingston,2026-11-26T01:27:04+00:00
-Kinshasa,Congo Dem. Rep.,Clear. Warm,26.1,3.2,Thu 2:27 am,https://www.timeanddate.com/weather/congo-demrep/kinshasa,2026-11-26T01:27:04+00:00
-Kiritimati,Kiribati,Drizzle. Broken clouds,27.2,14.5,Thu 3:27 pm,https://www.timeanddate.com/weather/kiribati/kiritimati,2026-11-26T01:27:04+00:00
-Kolkata,India,Fog. Mild,17.8,8.0,Thu 6:57 am,https://www.timeanddate.com/weather/india/kolkata,2026-11-26T01:27:04+00:00
-Kuala Lumpur,Malaysia,Passing clouds. Warm,27.2,3.2,Thu 9:27 am,https://www.timeanddate.com/weather/malaysia/kuala-lumpur,2026-11-26T01:27:04+00:00
-Kuwait City,Kuwait,Fog. Cool,15.6,17.7,Thu 4:27 am,https://www.timeanddate.com/weather/kuwait/kuwait-city,2026-11-26T01:27:04+00:00
-Kyiv,Ukraine,Clear. Chilly,-1.7,6.4,Thu 3:27 am,https://www.timeanddate.com/weather/ukraine/kyiv,2026-11-26T01:27:04+00:00
-La Paz,Bolivia,Passing clouds. Cool,11.1,35.4,Wed 9:27 pm,https://www.timeanddate.com/weather/bolivia/la-paz,2026-11-26T01:27:04+00:00
-Lagos,Nigeria,Passing clouds. Warm,27.8,3.2,Thu 2:27 am,https://www.timeanddate.com/weather/nigeria/lagos,2026-11-26T01:27:04+00:00
-Lahore,Pakistan,Fog. Cool,11.1,0.0,Thu 6:27 am,https://www.timeanddate.com/weather/pakistan/lahore,2026-11-26T01:27:04+00:00
-Las Vegas,USA,Partly sunny. Refreshingly cool,16.7,0.0,Wed 5:27 pm,https://www.timeanddate.com/weather/usa/las-vegas,2026-11-26T01:27:04+00:00
-Lima,Peru,Overcast. Warm,25.6,40.2,Wed 8:27 pm,https://www.timeanddate.com/weather/peru/lima,2026-11-26T01:27:04+00:00
-Lisbon,Portugal,Passing clouds. Cool,10.0,4.8,Thu 1:27 am,https://www.timeanddate.com/weather/portugal/lisbon,2026-11-26T01:27:04+00:00
-London,United Kingdom,Fog. Quite cool,6.1,19.3,Thu 1:27 am,https://www.timeanddate.com/weather/uk/london,2026-11-26T01:27:04+00:00
-Los Angeles,USA,Clear. Mild,22.2,8.0,Wed 5:27 pm,https://www.timeanddate.com/weather/usa/los-angeles,2026-11-26T01:27:04+00:00
-Madrid,Spain,Clear. Quite cool,5.0,9.7,Thu 2:27 am,https://www.timeanddate.com/weather/spain/madrid,2026-11-26T01:27:04+00:00
-Managua,Nicaragua,Passing clouds. Warm,31.1,8.0,Wed 7:27 pm,https://www.timeanddate.com/weather/nicaragua/managua,2026-11-26T01:27:04+00:00
-Manila,Philippines,Partly sunny. Warm,26.7,3.2,Thu 9:27 am,https://www.timeanddate.com/weather/philippines/manila,2026-11-26T01:27:04+00:00
-Melbourne,Australia,Sunny. Warm,26.1,9.7,Thu 12:27 pm,https://www.timeanddate.com/weather/australia/melbourne,2026-11-26T01:27:04+00:00
-Mexico City,Mexico,Light rain. Mostly cloudy,18.9,19.3,Wed 7:27 pm,https://www.timeanddate.com/weather/mexico/mexico-city,2026-11-26T01:27:04+00:00
-Miami,USA,Light rain. Mostly cloudy,22.8,11.3,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/miami,2026-11-26T01:27:04+00:00
-Minneapolis,USA,Passing clouds. Chilly,1.1,0.0,Wed 7:27 pm,https://www.timeanddate.com/weather/usa/minneapolis,2026-11-26T01:27:04+00:00
-Minsk,Belarus,Passing clouds. Chilly,-1.1,12.9,Thu 4:27 am,https://www.timeanddate.com/weather/belarus/minsk,2026-11-26T01:27:04+00:00
-Montevideo,Uruguay,Clear. Mild,18.9,29.0,Wed 10:27 pm,https://www.timeanddate.com/weather/uruguay/montevideo,2026-11-26T01:27:04+00:00
-Montréal,Canada,Passing clouds. Chilly,-1.1,8.0,Wed 8:27 pm,https://www.timeanddate.com/weather/canada/montreal,2026-11-26T01:27:04+00:00
-Moscow,Russia,Overcast. Chilly,-3.3,11.3,Thu 4:27 am,https://www.timeanddate.com/weather/russia/moscow,2026-11-26T01:27:04+00:00
-Mumbai,India,Clear. Warm,26.1,4.8,Thu 6:57 am,https://www.timeanddate.com/weather/india/mumbai,2026-11-26T01:27:04+00:00
-Nairobi,Kenya,Passing clouds. Mild,17.8,12.9,Thu 4:27 am,https://www.timeanddate.com/weather/kenya/nairobi,2026-11-26T01:27:04+00:00
-Nassau,Bahamas,Scattered showers. Partly cloudy,27.2,22.5,Wed 8:27 pm,https://www.timeanddate.com/weather/bahamas/nassau,2026-11-26T01:27:04+00:00
-New Delhi,India,Fog. Cool,10.0,0.0,Thu 6:57 am,https://www.timeanddate.com/weather/india/new-delhi,2026-11-26T01:27:04+00:00
-New Orleans,USA,Mostly cloudy. Cool,10.6,41.8,Wed 7:27 pm,https://www.timeanddate.com/weather/usa/new-orleans,2026-11-26T01:27:04+00:00
-New York,USA,Clear. Quite cool,6.1,14.5,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/new-york,2026-11-26T01:27:04+00:00
-Oslo,Norway,Clear. Cold,-12.2,1.6,Thu 2:27 am,https://www.timeanddate.com/weather/norway/oslo,2026-11-26T01:27:04+00:00
-Ottawa,Canada,Passing clouds. Cold,-6.1,4.8,Wed 8:27 pm,https://www.timeanddate.com/weather/canada/ottawa,2026-11-26T01:27:04+00:00
-Paris,France,Fog. Quite cool,5.0,14.5,Thu 2:27 am,https://www.timeanddate.com/weather/france/paris,2026-11-26T01:27:04+00:00
-Perth,Australia,Passing clouds. Mild,22.2,12.9,Thu 9:27 am,https://www.timeanddate.com/weather/australia/perth,2026-11-26T01:27:04+00:00
-Philadelphia,USA,Passing clouds. Quite cool,6.7,25.7,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/philadelphia,2026-11-26T01:27:04+00:00
-Phoenix,USA,Partly cloudy. Mild,22.8,11.3,Wed 6:27 pm,https://www.timeanddate.com/weather/usa/phoenix,2026-11-26T01:27:04+00:00
-Prague,Czechia,Overcast. Chilly,-1.1,19.3,Thu 2:27 am,https://www.timeanddate.com/weather/czech-republic/prague,2026-11-26T01:27:04+00:00
-Reykjavik,Iceland,Partly cloudy. Chilly,3.9,11.3,Thu 1:27 am,https://www.timeanddate.com/weather/iceland/reykjavik,2026-11-26T01:27:04+00:00
-Rio de Janeiro,Brazil,Light rain. Passing clouds,27.2,8.0,Wed 10:27 pm,https://www.timeanddate.com/weather/brazil/rio-de-janeiro,2026-11-26T01:27:04+00:00
-Riyadh,Saudi Arabia,Clear. Refreshingly cool,15.0,0.0,Thu 4:27 am,https://www.timeanddate.com/weather/saudi-arabia/riyadh,2026-11-26T01:27:04+00:00
-Rome,Italy,Passing clouds. Cool,16.1,16.1,Thu 2:27 am,https://www.timeanddate.com/weather/italy/rome,2026-11-26T01:27:04+00:00
-Salt Lake City,USA,Partly cloudy. Quite cool,5.0,9.7,Wed 6:27 pm,https://www.timeanddate.com/weather/usa/salt-lake-city,2026-11-26T01:27:04+00:00
-San Francisco,USA,Passing clouds. Cool,15.6,9.7,Wed 5:27 pm,https://www.timeanddate.com/weather/usa/san-francisco,2026-11-26T01:27:04+00:00
-San Juan,Puerto Rico,Passing clouds. Warm,27.2,12.9,Wed 9:27 pm,https://www.timeanddate.com/weather/puerto-rico/san-juan,2026-11-26T01:27:04+00:00
-San Salvador,El Salvador,Passing clouds. Warm,25.0,11.3,Wed 7:27 pm,https://www.timeanddate.com/weather/el-salvador/san-salvador,2026-11-26T01:27:04+00:00
-Santiago,Chile,Clear. Mild,23.9,9.7,Wed 10:27 pm,https://www.timeanddate.com/weather/chile/santiago,2026-11-26T01:27:04+00:00
-Santo Domingo,Dominican Republic,Passing clouds. Warm,28.9,6.4,Wed 9:27 pm,https://www.timeanddate.com/weather/dominican-republic/santo-domingo,2026-11-26T01:27:04+00:00
-São Paulo,Brazil,Light rain. Passing clouds,21.1,20.9,Wed 10:27 pm,https://www.timeanddate.com/weather/brazil/sao-paulo,2026-11-26T01:27:04+00:00
-Seattle,USA,Light rain. Mostly cloudy,13.3,12.9,Wed 5:27 pm,https://www.timeanddate.com/weather/usa/seattle,2026-11-26T01:27:04+00:00
-Seoul,South Korea,Partly sunny. Cool,12.2,12.9,Thu 10:27 am,https://www.timeanddate.com/weather/south-korea/seoul,2026-11-26T01:27:04+00:00
-Shanghai,China,Passing clouds. Refreshingly cool,13.9,12.9,Thu 9:27 am,https://www.timeanddate.com/weather/china/shanghai,2026-11-26T01:27:04+00:00
-Singapore,Singapore,Partly sunny. Warm,27.2,4.8,Thu 9:27 am,https://www.timeanddate.com/weather/singapore/singapore,2026-11-26T01:27:04+00:00
-Sofia,Bulgaria,Passing clouds. Chilly,1.7,3.2,Thu 3:27 am,https://www.timeanddate.com/weather/bulgaria/sofia,2026-11-26T01:27:04+00:00
-St. John's,Canada,Overcast. Chilly,-1.1,22.5,Wed 9:57 pm,https://www.timeanddate.com/weather/canada/st-johns,2026-11-26T01:27:04+00:00
-Stockholm,Sweden,Overcast. Chilly,-2.8,4.8,Thu 2:27 am,https://www.timeanddate.com/weather/sweden/stockholm,2026-11-26T01:27:04+00:00
-Suva,Fiji,Partly sunny. Warm,26.7,54.7,Thu 1:27 pm,https://www.timeanddate.com/weather/fiji/suva,2026-11-26T01:27:04+00:00
-Sydney,Australia,Broken clouds. Mild,23.9,16.1,Thu 12:27 pm,https://www.timeanddate.com/weather/australia/sydney,2026-11-26T01:27:04+00:00
-Taipei,Taiwan,Partly sunny. Mild,21.1,1.6,Thu 9:27 am,https://www.timeanddate.com/weather/taiwan/taipei,2026-11-26T01:27:04+00:00
-Tallinn,Estonia,Passing clouds. Chilly,1.1,16.1,Thu 3:27 am,https://www.timeanddate.com/weather/estonia/tallinn,2026-11-26T01:27:04+00:00
-Tashkent,Uzbekistan,Clear. Refreshingly cool,15.6,11.3,Thu 6:27 am,https://www.timeanddate.com/weather/uzbekistan/tashkent,2026-11-26T01:27:04+00:00
-Tegucigalpa,Honduras,Passing clouds. Mild,20.0,11.3,Wed 7:27 pm,https://www.timeanddate.com/weather/honduras/tegucigalpa,2026-11-26T01:27:04+00:00
-Tehran,Iran,,,,Thu 4:57 am,https://www.timeanddate.com/weather/iran/tehran,2026-11-26T01:27:04+00:00
-Tokyo,Japan,Scattered clouds. Cool,8.9,6.4,Thu 10:27 am,https://www.timeanddate.com/weather/japan/tokyo,2026-11-26T01:27:04+00:00
-Toronto,Canada,Passing clouds. Chilly,3.9,16.1,Wed 8:27 pm,https://www.timeanddate.com/weather/canada/toronto,2026-11-26T01:27:04+00:00
-Vancouver,Canada,Light rain. Fog,11.1,19.3,Wed 6:27 pm,https://www.timeanddate.com/weather/canada/vancouver,2026-11-26T01:27:04+00:00
-Vienna,Austria,Passing clouds. Chilly,0.0,14.5,Thu 2:27 am,https://www.timeanddate.com/weather/austria/vienna,2026-11-26T01:27:04+00:00
-Warsaw,Poland,Passing clouds. Chilly,0.0,8.0,Thu 2:27 am,https://www.timeanddate.com/weather/poland/warsaw,2026-11-26T01:27:04+00:00
-Washington DC,USA,Overcast. Cool,7.8,29.0,Wed 8:27 pm,https://www.timeanddate.com/weather/usa/washington-dc,2026-11-26T01:27:04+00:00
-Winnipeg,Canada,Chilly,1.1,12.9,Wed 8:27 pm,https://www.timeanddate.com/weather/canada/winnipeg,2026-11-26T01:27:04+00:00
-Yangon,Myanmar,Passing clouds. Warm,26.1,4.8,Thu 7:57 am,https://www.timeanddate.com/weather/myanmar/yangon,2026-11-26T01:27:04+00:00
-Zagreb,Croatia,Overcast. Chilly,2.2,19.3,Thu 2:27 am,https://www.timeanddate.com/weather/croatia/zagreb,2026-11-26T01:27:04+00:00
-Zürich,Switzerland,Overcast. Chilly,1.1,11.3,Thu 2:27 am,https://www.timeanddate.com/weather/switzerland/zurich,2026-11-26T01:27:04+00:00
+Accra,Ghana,Passing clouds. Warm,27.8,14.5,Thu 1:49 am,https://www.timeanddate.com/weather/ghana/accra,2026-11-26T01:49:51+00:00
+Addis Ababa,Ethiopia,Passing clouds. Cool,12.8,11.3,Thu 4:49 am,https://www.timeanddate.com/weather/ethiopia/addis-ababa,2026-11-26T01:49:51+00:00
+Adelaide,Australia,Pleasantly warm,30.0,4.8,Thu 12:19 pm,https://www.timeanddate.com/weather/australia/adelaide,2026-11-26T01:49:51+00:00
+Algiers,Algeria,Passing clouds. Cool,16.7,11.3,Thu 2:49 am,https://www.timeanddate.com/weather/algeria/algiers,2026-11-26T01:49:51+00:00
+Almaty,Kazakhstan,Fog. Chilly,3.9,1.6,Thu 6:49 am,https://www.timeanddate.com/weather/kazakstan/almaty,2026-11-26T01:49:51+00:00
+Amman,Jordan,Fog. Cool,10.0,1.6,Thu 4:49 am,https://www.timeanddate.com/weather/jordan/amman,2026-11-26T01:49:51+00:00
+Amsterdam,Netherlands,Passing clouds. Chilly,-1.1,20.9,Thu 2:49 am,https://www.timeanddate.com/weather/netherlands/amsterdam,2026-11-26T01:49:51+00:00
+Anadyr,Russia,Ice fog. Chilly,-1.7,78.9,Thu 1:49 pm,https://www.timeanddate.com/weather/russia/anadyr,2026-11-26T01:49:51+00:00
+Anchorage,USA,Sunny. Cold,-6.7,0.0,Wed 4:49 pm,https://www.timeanddate.com/weather/usa/anchorage,2026-11-26T01:49:51+00:00
+Ankara,Turkey,Clear. Cold,-5.0,3.2,Thu 4:49 am,https://www.timeanddate.com/weather/turkey/ankara,2026-11-26T01:49:51+00:00
+Antananarivo,Madagascar,Passing clouds. Mild,17.2,3.2,Thu 4:49 am,https://www.timeanddate.com/weather/madagascar/antananarivo,2026-11-26T01:49:51+00:00
+Asuncion,Paraguay,Clear. Mild,22.8,4.8,Wed 10:49 pm,https://www.timeanddate.com/weather/paraguay/asuncion,2026-11-26T01:49:51+00:00
+Athens,Greece,Cool,12.8,,Thu 3:49 am,https://www.timeanddate.com/weather/greece/athens,2026-11-26T01:49:51+00:00
+Atlanta,USA,Rain. Fog,7.2,8.0,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/atlanta,2026-11-26T01:49:51+00:00
+Auckland,New Zealand,Mostly cloudy. Mild,17.2,25.7,Thu 2:49 pm,https://www.timeanddate.com/weather/new-zealand/auckland,2026-11-26T01:49:51+00:00
+Baghdad,Iraq,,,,Thu 4:49 am,https://www.timeanddate.com/weather/iraq/baghdad,2026-11-26T01:49:51+00:00
+Bangkok,Thailand,Passing clouds. Warm,27.2,11.3,Thu 8:49 am,https://www.timeanddate.com/weather/thailand/bangkok,2026-11-26T01:49:51+00:00
+Barcelona,Spain,Passing clouds. Cool,10.0,24.1,Thu 2:49 am,https://www.timeanddate.com/weather/spain/barcelona,2026-11-26T01:49:51+00:00
+Beijing,China,Passing clouds. Chilly,3.9,4.8,Thu 9:49 am,https://www.timeanddate.com/weather/china/beijing,2026-11-26T01:49:51+00:00
+Beirut,Lebanon,Passing clouds. Cool,15.0,0.0,Thu 3:49 am,https://www.timeanddate.com/weather/lebanon/beirut,2026-11-26T01:49:51+00:00
+Belgrade,Serbia,Clear. Quite cool,7.2,32.2,Thu 2:49 am,https://www.timeanddate.com/weather/serbia/belgrade,2026-11-26T01:49:51+00:00
+Bengaluru,India,Partly cloudy. Mild,20.0,11.3,Thu 7:19 am,https://www.timeanddate.com/weather/india/bengaluru,2026-11-26T01:49:51+00:00
+Berlin,Germany,Passing clouds. Chilly,-2.8,8.0,Thu 2:49 am,https://www.timeanddate.com/weather/germany/berlin,2026-11-26T01:49:51+00:00
+Bogota,Colombia,Passing clouds. Cool,15.0,4.8,Wed 8:49 pm,https://www.timeanddate.com/weather/colombia/bogota,2026-11-26T01:49:51+00:00
+Boston,USA,Overcast. Chilly,3.3,11.3,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/boston,2026-11-26T01:49:51+00:00
+Brasilia,Brazil,Passing clouds. Mild,22.2,8.0,Wed 10:49 pm,https://www.timeanddate.com/weather/brazil/brasilia,2026-11-26T01:49:51+00:00
+Brisbane,Australia,Mild,26.1,3.2,Thu 11:49 am,https://www.timeanddate.com/weather/australia/brisbane,2026-11-26T01:49:51+00:00
+Brussels,Belgium,Clear. Chilly,-1.1,11.3,Thu 2:49 am,https://www.timeanddate.com/weather/belgium/brussels,2026-11-26T01:49:51+00:00
+Bucharest,Romania,Clear. Chilly,-2.8,0.0,Thu 3:49 am,https://www.timeanddate.com/weather/romania/bucharest,2026-11-26T01:49:51+00:00
+Budapest,Hungary,Light freezing rain. Mostly cloudy,0.0,16.1,Thu 2:49 am,https://www.timeanddate.com/weather/hungary/budapest,2026-11-26T01:49:51+00:00
+Buenos Aires,Argentina,Passing clouds. Mild,22.8,29.0,Wed 10:49 pm,https://www.timeanddate.com/weather/argentina/buenos-aires,2026-11-26T01:49:51+00:00
+Cairo,Egypt,Clear. Cool,13.9,12.9,Thu 3:49 am,https://www.timeanddate.com/weather/egypt/cairo,2026-11-26T01:49:51+00:00
+Calgary,Canada,Passing clouds. Chilly,3.9,3.2,Wed 7:49 pm,https://www.timeanddate.com/weather/canada/calgary,2026-11-26T01:49:51+00:00
+Canberra,Australia,Partly sunny. Mild,22.2,11.3,Thu 12:49 pm,https://www.timeanddate.com/weather/australia/canberra,2026-11-26T01:49:51+00:00
+Cape Town,South Africa,Clear. Mild,17.2,14.5,Thu 3:49 am,https://www.timeanddate.com/weather/south-africa/cape-town,2026-11-26T01:49:51+00:00
+Caracas,Venezuela,Passing clouds. Warm,27.8,9.7,Wed 9:49 pm,https://www.timeanddate.com/weather/venezuela/caracas,2026-11-26T01:49:51+00:00
+Casablanca,Morocco,Cool,16.1,1.6,Thu 1:49 am,https://www.timeanddate.com/weather/morocco/casablanca,2026-11-26T01:49:51+00:00
+Chicago,USA,Overcast. Quite cool,5.6,32.2,Wed 7:49 pm,https://www.timeanddate.com/weather/usa/chicago,2026-11-26T01:49:51+00:00
+Copenhagen,Denmark,Low clouds. Chilly,0.0,12.9,Thu 2:49 am,https://www.timeanddate.com/weather/denmark/copenhagen,2026-11-26T01:49:51+00:00
+Dallas,USA,Clear. Cool,8.3,9.7,Wed 7:49 pm,https://www.timeanddate.com/weather/usa/dallas,2026-11-26T01:49:51+00:00
+Dar es Salaam,Tanzania,Passing clouds. Warm,26.1,4.8,Thu 4:49 am,https://www.timeanddate.com/weather/tanzania/dar-es-salaam,2026-11-26T01:49:51+00:00
+Darwin,Australia,Partly sunny. Hot,32.8,11.3,Thu 11:19 am,https://www.timeanddate.com/weather/australia/darwin,2026-11-26T01:49:51+00:00
+Denver,USA,Passing clouds. Chilly,2.2,16.1,Wed 6:49 pm,https://www.timeanddate.com/weather/usa/denver,2026-11-26T01:49:51+00:00
+Detroit,USA,Passing clouds. Chilly,3.3,22.5,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/detroit,2026-11-26T01:49:51+00:00
+Dhaka,Bangladesh,Clear. Mild,19.4,6.4,Thu 7:49 am,https://www.timeanddate.com/weather/bangladesh/dhaka,2026-11-26T01:49:51+00:00
+Doha,Qatar,Clear. Mild,22.8,3.2,Thu 4:49 am,https://www.timeanddate.com/weather/qatar/doha,2026-11-26T01:49:51+00:00
+Dubai,United Arab Emirates,Passing clouds. Mild,23.9,8.0,Thu 5:49 am,https://www.timeanddate.com/weather/united-arab-emirates/dubai,2026-11-26T01:49:51+00:00
+Dublin,Ireland,Fog. Quite cool,6.1,3.2,Thu 1:49 am,https://www.timeanddate.com/weather/ireland/dublin,2026-11-26T01:49:51+00:00
+Edmonton,Canada,Passing clouds. Chilly,-1.1,9.7,Wed 7:49 pm,https://www.timeanddate.com/weather/canada/edmonton,2026-11-26T01:49:51+00:00
+Frankfurt,Germany,Passing clouds. Chilly,-1.1,20.9,Thu 2:49 am,https://www.timeanddate.com/weather/germany/frankfurt,2026-11-26T01:49:51+00:00
+Guatemala City,Guatemala,Passing clouds. Mild,18.9,37.0,Wed 7:49 pm,https://www.timeanddate.com/weather/guatemala/guatemala-city,2026-11-26T01:49:51+00:00
+Halifax,Canada,Passing clouds. Chilly,-2.8,4.8,Wed 9:49 pm,https://www.timeanddate.com/weather/canada/halifax,2026-11-26T01:49:51+00:00
+Hanoi,Vietnam,Passing clouds. Cool,16.1,9.7,Thu 8:49 am,https://www.timeanddate.com/weather/vietnam/hanoi,2026-11-26T01:49:51+00:00
+Harare,Zimbabwe,Overcast. Mild,20.0,25.7,Thu 3:49 am,https://www.timeanddate.com/weather/zimbabwe/harare,2026-11-26T01:49:51+00:00
+Havana,Cuba,Light rain. Passing clouds,23.9,20.9,Wed 9:49 pm,https://www.timeanddate.com/weather/cuba/havana,2026-11-26T01:49:51+00:00
+Helsinki,Finland,Passing clouds. Chilly,-1.1,20.9,Thu 3:49 am,https://www.timeanddate.com/weather/finland/helsinki,2026-11-26T01:49:51+00:00
+Hong Kong,Hong Kong,Scattered clouds. Mild,17.2,19.3,Thu 9:49 am,https://www.timeanddate.com/weather/hong-kong/hong-kong,2026-11-26T01:49:51+00:00
+Honolulu,USA,Scattered clouds. Warm,27.2,27.4,Wed 3:49 pm,https://www.timeanddate.com/weather/usa/honolulu,2026-11-26T01:49:51+00:00
+Houston,USA,Clear. Cool,10.6,12.9,Wed 7:49 pm,https://www.timeanddate.com/weather/usa/houston,2026-11-26T01:49:51+00:00
+Indianapolis,USA,Passing clouds. Quite cool,6.7,54.7,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/indianapolis,2026-11-26T01:49:51+00:00
+Islamabad,Pakistan,Clear. Refreshingly cool,15.0,0.0,Thu 6:49 am,https://www.timeanddate.com/weather/pakistan/islamabad,2026-11-26T01:49:51+00:00
+Istanbul,Turkey,Clear. Cool,8.9,12.9,Thu 4:49 am,https://www.timeanddate.com/weather/turkey/istanbul,2026-11-26T01:49:51+00:00
+Jakarta,Indonesia,Scattered clouds. Warm,28.3,6.4,Thu 8:49 am,https://www.timeanddate.com/weather/indonesia/jakarta,2026-11-26T01:49:51+00:00
+Jerusalem,Israel,Quite cool,11.1,,Thu 3:49 am,https://www.timeanddate.com/weather/israel/jerusalem,2026-11-26T01:49:51+00:00
+Johannesburg,South Africa,Passing clouds. Cool,15.6,40.2,Thu 3:49 am,https://www.timeanddate.com/weather/south-africa/johannesburg,2026-11-26T01:49:51+00:00
+Kabul,Afghanistan,Haze. Cool,10.0,0.0,Thu 6:19 am,https://www.timeanddate.com/weather/afghanistan/kabul,2026-11-26T01:49:51+00:00
+Karachi,Pakistan,Clear. Mild,17.2,11.3,Thu 6:49 am,https://www.timeanddate.com/weather/pakistan/karachi,2026-11-26T01:49:51+00:00
+Kathmandu,Nepal,Fog. Cool,7.8,3.2,Thu 7:34 am,https://www.timeanddate.com/weather/nepal/kathmandu,2026-11-26T01:49:51+00:00
+Khartoum,Sudan,Clear. Mild,20.0,9.7,Thu 3:49 am,https://www.timeanddate.com/weather/sudan/khartoum,2026-11-26T01:49:51+00:00
+Kingston,Jamaica,Warm,28.9,40.2,Wed 8:49 pm,https://www.timeanddate.com/weather/jamaica/kingston,2026-11-26T01:49:51+00:00
+Kinshasa,Congo Dem. Rep.,Clear. Warm,26.1,3.2,Thu 2:49 am,https://www.timeanddate.com/weather/congo-demrep/kinshasa,2026-11-26T01:49:51+00:00
+Kiritimati,Kiribati,Drizzle. Broken clouds,27.2,14.5,Thu 3:49 pm,https://www.timeanddate.com/weather/kiribati/kiritimati,2026-11-26T01:49:51+00:00
+Kolkata,India,Fog. Mild,17.8,8.0,Thu 7:19 am,https://www.timeanddate.com/weather/india/kolkata,2026-11-26T01:49:51+00:00
+Kuala Lumpur,Malaysia,Passing clouds. Warm,27.2,3.2,Thu 9:49 am,https://www.timeanddate.com/weather/malaysia/kuala-lumpur,2026-11-26T01:49:51+00:00
+Kuwait City,Kuwait,Fog. Cool,15.6,17.7,Thu 4:49 am,https://www.timeanddate.com/weather/kuwait/kuwait-city,2026-11-26T01:49:51+00:00
+Kyiv,Ukraine,Clear. Chilly,-1.7,6.4,Thu 3:49 am,https://www.timeanddate.com/weather/ukraine/kyiv,2026-11-26T01:49:51+00:00
+La Paz,Bolivia,Passing clouds. Cool,11.1,35.4,Wed 9:49 pm,https://www.timeanddate.com/weather/bolivia/la-paz,2026-11-26T01:49:51+00:00
+Lagos,Nigeria,Passing clouds. Warm,27.2,3.2,Thu 2:49 am,https://www.timeanddate.com/weather/nigeria/lagos,2026-11-26T01:49:51+00:00
+Lahore,Pakistan,Fog. Cool,11.1,0.0,Thu 6:49 am,https://www.timeanddate.com/weather/pakistan/lahore,2026-11-26T01:49:51+00:00
+Las Vegas,USA,Partly sunny. Refreshingly cool,16.7,0.0,Wed 5:49 pm,https://www.timeanddate.com/weather/usa/las-vegas,2026-11-26T01:49:51+00:00
+Lima,Peru,Overcast. Warm,25.6,40.2,Wed 8:49 pm,https://www.timeanddate.com/weather/peru/lima,2026-11-26T01:49:51+00:00
+Lisbon,Portugal,Passing clouds. Cool,10.0,4.8,Thu 1:49 am,https://www.timeanddate.com/weather/portugal/lisbon,2026-11-26T01:49:51+00:00
+London,United Kingdom,Fog. Quite cool,6.1,19.3,Thu 1:49 am,https://www.timeanddate.com/weather/uk/london,2026-11-26T01:49:51+00:00
+Los Angeles,USA,Clear. Mild,22.2,8.0,Wed 5:49 pm,https://www.timeanddate.com/weather/usa/los-angeles,2026-11-26T01:49:51+00:00
+Madrid,Spain,Clear. Quite cool,5.0,9.7,Thu 2:49 am,https://www.timeanddate.com/weather/spain/madrid,2026-11-26T01:49:51+00:00
+Managua,Nicaragua,Passing clouds. Warm,31.1,8.0,Wed 7:49 pm,https://www.timeanddate.com/weather/nicaragua/managua,2026-11-26T01:49:51+00:00
+Manila,Philippines,Partly sunny. Warm,26.7,3.2,Thu 9:49 am,https://www.timeanddate.com/weather/philippines/manila,2026-11-26T01:49:51+00:00
+Melbourne,Australia,Sunny. Warm,26.1,9.7,Thu 12:49 pm,https://www.timeanddate.com/weather/australia/melbourne,2026-11-26T01:49:51+00:00
+Mexico City,Mexico,Light rain. Mostly cloudy,17.2,12.9,Wed 7:49 pm,https://www.timeanddate.com/weather/mexico/mexico-city,2026-11-26T01:49:51+00:00
+Miami,USA,Light rain. Mostly cloudy,22.8,11.3,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/miami,2026-11-26T01:49:51+00:00
+Minneapolis,USA,Passing clouds. Chilly,1.1,0.0,Wed 7:49 pm,https://www.timeanddate.com/weather/usa/minneapolis,2026-11-26T01:49:51+00:00
+Minsk,Belarus,Passing clouds. Chilly,-1.1,12.9,Thu 4:49 am,https://www.timeanddate.com/weather/belarus/minsk,2026-11-26T01:49:51+00:00
+Montevideo,Uruguay,Clear. Mild,18.9,29.0,Wed 10:49 pm,https://www.timeanddate.com/weather/uruguay/montevideo,2026-11-26T01:49:51+00:00
+Montréal,Canada,Passing clouds. Chilly,-1.1,8.0,Wed 8:49 pm,https://www.timeanddate.com/weather/canada/montreal,2026-11-26T01:49:51+00:00
+Moscow,Russia,Overcast. Chilly,-3.3,11.3,Thu 4:49 am,https://www.timeanddate.com/weather/russia/moscow,2026-11-26T01:49:51+00:00
+Mumbai,India,Clear. Warm,26.1,4.8,Thu 7:19 am,https://www.timeanddate.com/weather/india/mumbai,2026-11-26T01:49:51+00:00
+Nairobi,Kenya,Passing clouds. Mild,17.8,12.9,Thu 4:49 am,https://www.timeanddate.com/weather/kenya/nairobi,2026-11-26T01:49:51+00:00
+Nassau,Bahamas,Scattered showers. Partly cloudy,27.2,22.5,Wed 8:49 pm,https://www.timeanddate.com/weather/bahamas/nassau,2026-11-26T01:49:51+00:00
+New Delhi,India,Fog. Cool,10.0,0.0,Thu 7:19 am,https://www.timeanddate.com/weather/india/new-delhi,2026-11-26T01:49:51+00:00
+New Orleans,USA,Mostly cloudy. Cool,10.6,41.8,Wed 7:49 pm,https://www.timeanddate.com/weather/usa/new-orleans,2026-11-26T01:49:51+00:00
+New York,USA,Clear. Quite cool,6.1,14.5,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/new-york,2026-11-26T01:49:51+00:00
+Oslo,Norway,Clear. Cold,-12.2,3.2,Thu 2:49 am,https://www.timeanddate.com/weather/norway/oslo,2026-11-26T01:49:51+00:00
+Ottawa,Canada,Passing clouds. Cold,-6.1,4.8,Wed 8:49 pm,https://www.timeanddate.com/weather/canada/ottawa,2026-11-26T01:49:51+00:00
+Paris,France,Fog. Quite cool,5.0,14.5,Thu 2:49 am,https://www.timeanddate.com/weather/france/paris,2026-11-26T01:49:51+00:00
+Perth,Australia,Passing clouds. Mild,22.2,12.9,Thu 9:49 am,https://www.timeanddate.com/weather/australia/perth,2026-11-26T01:49:51+00:00
+Philadelphia,USA,Passing clouds. Quite cool,6.7,25.7,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/philadelphia,2026-11-26T01:49:51+00:00
+Phoenix,USA,Partly cloudy. Mild,22.8,11.3,Wed 6:49 pm,https://www.timeanddate.com/weather/usa/phoenix,2026-11-26T01:49:51+00:00
+Prague,Czechia,Overcast. Chilly,-1.1,19.3,Thu 2:49 am,https://www.timeanddate.com/weather/czech-republic/prague,2026-11-26T01:49:51+00:00
+Reykjavik,Iceland,Partly cloudy. Chilly,3.9,11.3,Thu 1:49 am,https://www.timeanddate.com/weather/iceland/reykjavik,2026-11-26T01:49:51+00:00
+Rio de Janeiro,Brazil,Light rain. Passing clouds,27.2,8.0,Wed 10:49 pm,https://www.timeanddate.com/weather/brazil/rio-de-janeiro,2026-11-26T01:49:51+00:00
+Riyadh,Saudi Arabia,Clear. Refreshingly cool,15.0,0.0,Thu 4:49 am,https://www.timeanddate.com/weather/saudi-arabia/riyadh,2026-11-26T01:49:51+00:00
+Rome,Italy,Passing clouds. Cool,16.1,14.5,Thu 2:49 am,https://www.timeanddate.com/weather/italy/rome,2026-11-26T01:49:51+00:00
+Salt Lake City,USA,Partly cloudy. Quite cool,5.0,9.7,Wed 6:49 pm,https://www.timeanddate.com/weather/usa/salt-lake-city,2026-11-26T01:49:51+00:00
+San Francisco,USA,Passing clouds. Cool,15.6,9.7,Wed 5:49 pm,https://www.timeanddate.com/weather/usa/san-francisco,2026-11-26T01:49:51+00:00
+San Juan,Puerto Rico,Passing clouds. Warm,27.2,12.9,Wed 9:49 pm,https://www.timeanddate.com/weather/puerto-rico/san-juan,2026-11-26T01:49:51+00:00
+San Salvador,El Salvador,Passing clouds. Warm,25.0,11.3,Wed 7:49 pm,https://www.timeanddate.com/weather/el-salvador/san-salvador,2026-11-26T01:49:51+00:00
+Santiago,Chile,Clear. Mild,23.9,9.7,Wed 10:49 pm,https://www.timeanddate.com/weather/chile/santiago,2026-11-26T01:49:51+00:00
+Santo Domingo,Dominican Republic,Passing clouds. Warm,28.9,6.4,Wed 9:49 pm,https://www.timeanddate.com/weather/dominican-republic/santo-domingo,2026-11-26T01:49:51+00:00
+São Paulo,Brazil,Light rain. Passing clouds,21.1,20.9,Wed 10:49 pm,https://www.timeanddate.com/weather/brazil/sao-paulo,2026-11-26T01:49:51+00:00
+Seattle,USA,Light rain. Mostly cloudy,13.3,12.9,Wed 5:49 pm,https://www.timeanddate.com/weather/usa/seattle,2026-11-26T01:49:51+00:00
+Seoul,South Korea,Partly sunny. Cool,12.2,12.9,Thu 10:49 am,https://www.timeanddate.com/weather/south-korea/seoul,2026-11-26T01:49:51+00:00
+Shanghai,China,Passing clouds. Refreshingly cool,13.9,12.9,Thu 9:49 am,https://www.timeanddate.com/weather/china/shanghai,2026-11-26T01:49:51+00:00
+Singapore,Singapore,Partly sunny. Warm,27.2,4.8,Thu 9:49 am,https://www.timeanddate.com/weather/singapore/singapore,2026-11-26T01:49:51+00:00
+Sofia,Bulgaria,Passing clouds. Chilly,1.7,3.2,Thu 3:49 am,https://www.timeanddate.com/weather/bulgaria/sofia,2026-11-26T01:49:51+00:00
+St. John's,Canada,Passing clouds. Chilly,-2.2,19.3,Wed 10:19 pm,https://www.timeanddate.com/weather/canada/st-johns,2026-11-26T01:49:51+00:00
+Stockholm,Sweden,Passing clouds. Chilly,-2.8,4.8,Thu 2:49 am,https://www.timeanddate.com/weather/sweden/stockholm,2026-11-26T01:49:51+00:00
+Suva,Fiji,Partly sunny. Warm,26.7,54.7,Thu 1:49 pm,https://www.timeanddate.com/weather/fiji/suva,2026-11-26T01:49:51+00:00
+Sydney,Australia,Broken clouds. Mild,23.9,16.1,Thu 12:49 pm,https://www.timeanddate.com/weather/australia/sydney,2026-11-26T01:49:51+00:00
+Taipei,Taiwan,Partly sunny. Mild,21.1,1.6,Thu 9:49 am,https://www.timeanddate.com/weather/taiwan/taipei,2026-11-26T01:49:51+00:00
+Tallinn,Estonia,Overcast. Chilly,1.1,14.5,Thu 3:49 am,https://www.timeanddate.com/weather/estonia/tallinn,2026-11-26T01:49:51+00:00
+Tashkent,Uzbekistan,Clear. Refreshingly cool,15.6,11.3,Thu 6:49 am,https://www.timeanddate.com/weather/uzbekistan/tashkent,2026-11-26T01:49:51+00:00
+Tegucigalpa,Honduras,Passing clouds. Mild,20.0,11.3,Wed 7:49 pm,https://www.timeanddate.com/weather/honduras/tegucigalpa,2026-11-26T01:49:51+00:00
+Tehran,Iran,,,,Thu 5:19 am,https://www.timeanddate.com/weather/iran/tehran,2026-11-26T01:49:51+00:00
+Tokyo,Japan,Scattered clouds. Cool,8.9,6.4,Thu 10:49 am,https://www.timeanddate.com/weather/japan/tokyo,2026-11-26T01:49:51+00:00
+Toronto,Canada,Passing clouds. Chilly,3.9,16.1,Wed 8:49 pm,https://www.timeanddate.com/weather/canada/toronto,2026-11-26T01:49:51+00:00
+Vancouver,Canada,Light rain. Fog,11.1,19.3,Wed 6:49 pm,https://www.timeanddate.com/weather/canada/vancouver,2026-11-26T01:49:51+00:00
+Vienna,Austria,Light snow. Passing clouds,0.0,14.5,Thu 2:49 am,https://www.timeanddate.com/weather/austria/vienna,2026-11-26T01:49:51+00:00
+Warsaw,Poland,Passing clouds. Chilly,0.0,8.0,Thu 2:49 am,https://www.timeanddate.com/weather/poland/warsaw,2026-11-26T01:49:51+00:00
+Washington DC,USA,Overcast. Cool,7.8,29.0,Wed 8:49 pm,https://www.timeanddate.com/weather/usa/washington-dc,2026-11-26T01:49:51+00:00
+Winnipeg,Canada,Chilly,1.1,12.9,Wed 8:49 pm,https://www.timeanddate.com/weather/canada/winnipeg,2026-11-26T01:49:51+00:00
+Yangon,Myanmar,Passing clouds. Warm,26.1,4.8,Thu 8:19 am,https://www.timeanddate.com/weather/myanmar/yangon,2026-11-26T01:49:51+00:00
+Zagreb,Croatia,Overcast. Chilly,2.2,19.3,Thu 2:49 am,https://www.timeanddate.com/weather/croatia/zagreb,2026-11-26T01:49:51+00:00
+Zürich,Switzerland,Overcast. Chilly,1.1,11.3,Thu 2:49 am,https://www.timeanddate.com/weather/switzerland/zurich,2026-11-26T01:49:51+00:00

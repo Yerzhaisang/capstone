@@ -20,7 +20,7 @@ If you already created `.venv`, start with the activation command. On its first 
 python scrape_weather.py
 ```
 
-The scraper opens Chrome in headless mode, waits for the weather table, and writes `weather.csv` in the current folder. Running it again replaces that snapshot. Use `--output` to save a new snapshot under another filename:
+The scraper opens Chrome in headless mode, waits for the weather table, and writes the scraped values to `weather_raw.csv`. Pandas reads that file into a DataFrame, reports row counts and data quality before and after cleaning, and writes `weather.csv`. Running it again replaces both snapshots. Use `--output` to give the cleaned snapshot a different filename. For example, `weather_new.csv` is paired with `weather_new_raw.csv`.
 
 ```bash
 python scrape_weather.py --output weather_new.csv
@@ -38,4 +38,4 @@ python scrape_weather.py --output weather_new.csv
 | `city_weather_url` | Link to the city’s weather page, used to identify duplicate rows |
 | `scraped_at_utc` | UTC timestamp when the scraper read the table |
 
-The scraper trims extra whitespace, standardizes temperature and wind units, and leaves unavailable readings blank. Each CSV captures a single point in time.
+The cleaning step trims extra whitespace, removes rows with missing or invalid location identifiers, and keeps one row per city weather URL. It standardizes temperature and wind units and reports malformed readings separately from unavailable readings. Both are saved as blank cells. Each CSV captures a single point in time.
